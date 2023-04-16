@@ -75,13 +75,29 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 
 - Un Admin peut chercher, ajouter, modifier ou supprimer un patient : 
 
-![22](https://user-images.githubusercontent.com/60039200/232347486-68fbd300-7ad8-45e0-b2b4-aa989a3935e4.PNG)
+![22](https://user-images.githubusercontent.com/60039200/232347833-c8b65574-d538-43a2-a44f-da3075dbb772.PNG)
 
 - Le formulaire d'ajout d'un patient :
 
 ![formulaire d'ajout](https://user-images.githubusercontent.com/60039200/232347675-3c7b99d4-1ae4-4cc5-a5fe-ca21c94a41b7.PNG)
 
 ![tststst](https://user-images.githubusercontent.com/60039200/232347714-6c358c00-5cbc-4dff-9e09-d25ccefc72aa.PNG)
+
+- La suppression d'un patient : 
+
+![44 sup 1](https://user-images.githubusercontent.com/60039200/232347919-52c3f1c8-828c-43b6-a6b7-65420295cd67.PNG)
+
+![44 sup 2](https://user-images.githubusercontent.com/60039200/232348030-79dccd4c-a15b-49c8-b83e-b7bdabbbcd83.PNG)
+
+- La modification d'un patient : 
+
+![55 edit 1](https://user-images.githubusercontent.com/60039200/232348296-5c7ed7be-5ee1-49e1-b7a5-826ac616cb8a.PNG)
+
+![55 edit 3](https://user-images.githubusercontent.com/60039200/232348396-516d689d-9fbc-447a-be12-16e675d70cae.PNG)
+
+
+
+
 
 
 
