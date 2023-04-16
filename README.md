@@ -46,4 +46,39 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 - Spring-boot-devtools : une dépendance Spring Boot qui fournit des outils de développement pratiques pour le développement de vos applications Spring Boot. Cette dépendance a été utilisé dans cette activité pour :
     * Le mécanisme de rechargement automatique des classes en mode développement; 
     * Le serveur embarqué qui permet de redémarrer l'application automatiquement lorsqu'un changement est détecté.
+    
+### L'interface de l'Output et les fonctionnalités implémentées ### 
+
+- La page d'acceuil et d'authentification :  
+
+![1](https://user-images.githubusercontent.com/60039200/232346478-8d62c8e7-b6e4-4a42-ac23-6e84c1263439.PNG)
+
+- L'interface si le compte est un compte USER : 
+
+![2](https://user-images.githubusercontent.com/60039200/232346817-426ba489-2a6e-4c45-a65c-058f1f452c97.PNG)
+
+- Un User peut chercher un patient et naviguer la pagination : 
+
+![3](https://user-images.githubusercontent.com/60039200/232346946-3b67e52e-0791-4cd3-a730-e11577f71ede.PNG)
+
+- Les Urls de l'Admin sont également protégés :
+
+![5](https://user-images.githubusercontent.com/60039200/232347050-5e1fc920-5b6d-4638-8d30-f5d0a9b13468.PNG)
+
+- Un User peut se déconnecter : 
+
+![4](https://user-images.githubusercontent.com/60039200/232347141-68c01269-96ba-4cdf-aec1-d158c628aecd.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
