@@ -33,17 +33,17 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 - Thymeleaf : Un moteur de modèle Java moderne coté serveur qui nous permet d’afficher correctement des pages HTML qui peuvent fonctionner comme des prototypes statiques.
 - Thymeleaf-extras-springsecurity6 : Une bibliothèque qui fournit des extensions Thymeleaf pour faciliter l'intégration de Spring Security avec Thymeleaf.
 - Spring-boot-starter-security : Une dépendance Spring Boot qui fournit un ensemble de fonctionnalités de sécurité pour votre application Spring Boot. Cette dépendance inclut Spring Security, et permet :
-    . L'authentification et l'autorisation basées sur les rôles.
-    . La gestion des sessions et des cookies.
-    . La protection contre les attaques CSRF (Cross-Site Request Forgery).
-    . La sécurité basée sur les expressions SpEL (Spring Expression Language).
-    . La prise en charge de l'OAuth2 pour les services d'authentification tiers.
+    * L'authentification et l'autorisation basées sur les rôles.
+    * La gestion des sessions et des cookies.
+    * La protection contre les attaques CSRF (Cross-Site Request Forgery).
+    * La sécurité basée sur les expressions SpEL (Spring Expression Language).
+    * La prise en charge de l'OAuth2 pour les services d'authentification tiers.
 - Spring-boot-starter-validation : Une dépendance qui fournit une prise en charge de la validation des données dans les applications Spring Boot. Cette dépendance inclut Hibernate Validator, qui est une implémentation de référence de la spécification de validation de Bean Validation. Parmis ses fonctionnalités :
-    . La validation des champs de formulaire.
-    . La validation des paramètres de requête.
-    . La validation des entités JPA.
+    * La validation des champs de formulaire.
+    * La validation des paramètres de requête.
+    * La validation des entités JPA.
 - Bootstrap/Bootstrap icons : Une bibliothèque open-source de développement front-end pour la conception de sites et d'applications web. Elle fournit des styles CSS prédéfinis, des composants JavaScript et des icônes pour faciliter la création d'interfaces utilisateur esthétiques et responsives.
 - Spring-boot-devtools : une dépendance Spring Boot qui fournit des outils de développement pratiques pour le développement de vos applications Spring Boot. Cette dépendance a été utilisé dans cette activité pour :
-    . Le mécanisme de rechargement automatique des classes en mode développement; 
-    . Le serveur embarqué qui permet de redémarrer l'application automatiquement lorsqu'un changement est détecté.
+    * Le mécanisme de rechargement automatique des classes en mode développement; 
+    * Le serveur embarqué qui permet de redémarrer l'application automatiquement lorsqu'un changement est détecté.
 
