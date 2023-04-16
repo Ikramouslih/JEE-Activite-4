@@ -1,6 +1,6 @@
 # JEE-Activite-4
 
-Cett activité nous permet d'exercer la sécurité d'une application en établissant un systeme d'authentification basé sur Spring security avec les trois stratégies : InMemoryAuthentication, JdbcAuthentication et UserDetailsService.
+Cette activité nous permet d'exercer la sécurité d'une application en établissant un systeme d'authentification basé sur Spring security avec les deux stratégies : InMemoryAuthentication, JdbcAuthentication.
 
 ### Travail à faire ###
 
