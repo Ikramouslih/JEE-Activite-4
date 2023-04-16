@@ -69,6 +69,23 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 
 ![4](https://user-images.githubusercontent.com/60039200/232347141-68c01269-96ba-4cdf-aec1-d158c628aecd.PNG)
 
+- Authentification de l'Admin avec la fonctionnalité "Remember Me" qui permet de se souvenir du dernier compte qui a été connecté : 
+
+![11](https://user-images.githubusercontent.com/60039200/232347341-23d467bd-4cb1-4b7b-9c8d-c940cbc3c3dc.PNG)
+
+- Un Admin peut chercher, ajouter, modifier ou supprimer un patient : 
+
+![22](https://user-images.githubusercontent.com/60039200/232347486-68fbd300-7ad8-45e0-b2b4-aa989a3935e4.PNG)
+
+- Le formulaire d'ajout d'un patient :
+
+![formulaire d'ajout](https://user-images.githubusercontent.com/60039200/232347675-3c7b99d4-1ae4-4cc5-a5fe-ca21c94a41b7.PNG)
+
+![tststst](https://user-images.githubusercontent.com/60039200/232347714-6c358c00-5cbc-4dff-9e09-d25ccefc72aa.PNG)
+
+
+
+
 
 
 
