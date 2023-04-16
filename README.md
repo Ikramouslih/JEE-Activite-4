@@ -83,17 +83,18 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 
 ![tststst](https://user-images.githubusercontent.com/60039200/232347714-6c358c00-5cbc-4dff-9e09-d25ccefc72aa.PNG)
 
+- La modification d'un patient : 
+
+![55 edit 1](https://user-images.githubusercontent.com/60039200/232348296-5c7ed7be-5ee1-49e1-b7a5-826ac616cb8a.PNG)
+
+![55 edit 3](https://user-images.githubusercontent.com/60039200/232348396-516d689d-9fbc-447a-be12-16e675d70cae.PNG)
+
 - La suppression d'un patient : 
 
 ![44 sup 1](https://user-images.githubusercontent.com/60039200/232347919-52c3f1c8-828c-43b6-a6b7-65420295cd67.PNG)
 
 ![44 sup 2](https://user-images.githubusercontent.com/60039200/232348030-79dccd4c-a15b-49c8-b83e-b7bdabbbcd83.PNG)
 
-- La modification d'un patient : 
-
-![55 edit 1](https://user-images.githubusercontent.com/60039200/232348296-5c7ed7be-5ee1-49e1-b7a5-826ac616cb8a.PNG)
-
-![55 edit 3](https://user-images.githubusercontent.com/60039200/232348396-516d689d-9fbc-447a-be12-16e675d70cae.PNG)
 
 
 
