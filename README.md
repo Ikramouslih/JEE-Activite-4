@@ -95,24 +95,7 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 
 ![44 sup 2](https://user-images.githubusercontent.com/60039200/232348030-79dccd4c-a15b-49c8-b83e-b7bdabbbcd83.PNG)
 
+- Les champs des formulaires sont controlés et validés :
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![1111](https://user-images.githubusercontent.com/60039200/232349593-745715cf-262d-446b-9f97-8bc4ca86a29e.PNG)
 
