@@ -85,7 +85,7 @@ Avec Spring Security, les développeurs peuvent facilement configurer et personn
 
 - La modification d'un patient : 
 
-![55 edit 1](https://user-images.githubusercontent.com/60039200/232348296-5c7ed7be-5ee1-49e1-b7a5-826ac616cb8a.PNG)
+![55 edit 1](https://user-images.githubusercontent.com/60039200/232349351-18bb4f59-3ed0-4331-81bd-815ff5206a7a.PNG)
 
 ![55 edit 3](https://user-images.githubusercontent.com/60039200/232348396-516d689d-9fbc-447a-be12-16e675d70cae.PNG)
 
