@@ -15,7 +15,8 @@ Spring Security est un framework de sécurité qui fournit des fonctionnalités 
 
 Avec Spring Security, les développeurs peuvent facilement configurer et personnaliser la sécurité de leurs applications en utilisant une variété de mécanismes d'authentification, tels que les formulaires de connexion, les jetons d'accès, les certificats numériques et les clés API. En outre, il est hautement extensible et peut être facilement intégré avec d'autres frameworks et bibliothèques Spring pour une gestion efficace de la sécurité.
 
-![Uploading 2.PNG…]()
+![2](https://user-images.githubusercontent.com/60039200/232334960-24988d89-72d4-4a5a-b77a-068d80fb634c.PNG)
+
 
 ### La configuration du projet ### 
 - SDK : 1.8 Oracle OpenJDK version 18.0.2
